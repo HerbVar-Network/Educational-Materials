@@ -1,2 +1,2 @@
 # Educational-Materials
-Storage and sharing of HerbVar-related educational materials
+Storage and sharing of HerbVar-related educational materials.
